@@ -1,0 +1,144 @@
+<?xml-stylesheet type="text/css" href="./tests/resources/style/sunhb.css" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg width="624.7256" height="511.68" viewBox="0 0 624.7256 511.68">
+
+	<g transform="scale(0.8)" xml:space="preserve">
+		<g transform="translate(151.104,79.2)">
+			<rect width="5.400000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="6.000000" y="450.000000" onclick="alert('x:0.01\ny:0')" onmousemove="window.status='x:0.01\ty:0'" />
+			<rect width="5.400000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="12.000000" y="450.000000" onclick="alert('x:0.02\ny:0')" onmousemove="window.status='x:0.02\ty:0'" />
+			<rect width="5.400000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="18.000000" y="450.000000" onclick="alert('x:0.03\ny:0')" onmousemove="window.status='x:0.03\ty:0'" />
+			<rect width="5.400000" height="0.375000" style="fill:blue;stroke:none;stroke-width:3" x="24.000000" y="449.625000" onclick="alert('x:0.04\ny:1')" onmousemove="window.status='x:0.04\ty:1'" />
+			<rect width="5.400000" height="0.375000" style="fill:blue;stroke:none;stroke-width:3" x="30.000000" y="449.625000" onclick="alert('x:0.05\ny:1')" onmousemove="window.status='x:0.05\ty:1'" />
+			<rect width="5.400000" height="1.125000" style="fill:blue;stroke:none;stroke-width:3" x="36.000000" y="448.875000" onclick="alert('x:0.06\ny:3')" onmousemove="window.status='x:0.06\ty:3'" />
+			<rect width="5.400000" height="1.875000" style="fill:blue;stroke:none;stroke-width:3" x="42.000000" y="448.125000" onclick="alert('x:0.07\ny:5')" onmousemove="window.status='x:0.07\ty:5'" />
+			<rect width="5.400000" height="1.875000" style="fill:blue;stroke:none;stroke-width:3" x="48.000000" y="448.125000" onclick="alert('x:0.08\ny:5')" onmousemove="window.status='x:0.08\ty:5'" />
+			<rect width="5.400000" height="1.875000" style="fill:blue;stroke:none;stroke-width:3" x="54.000000" y="448.125000" onclick="alert('x:0.09\ny:5')" onmousemove="window.status='x:0.09\ty:5'" />
+			<rect width="5.400000" height="3.750000" style="fill:blue;stroke:none;stroke-width:3" x="60.000000" y="446.250000" onclick="alert('x:0.1\ny:10')" onmousemove="window.status='x:0.1\ty:10'" />
+			<rect width="5.400000" height="1.875000" style="fill:blue;stroke:none;stroke-width:3" x="66.000000" y="448.125000" onclick="alert('x:0.11\ny:5')" onmousemove="window.status='x:0.11\ty:5'" />
+			<rect width="5.400000" height="3.375000" style="fill:blue;stroke:none;stroke-width:3" x="72.000000" y="446.625000" onclick="alert('x:0.12\ny:9')" onmousemove="window.status='x:0.12\ty:9'" />
+			<rect width="5.400000" height="5.250000" style="fill:blue;stroke:none;stroke-width:3" x="78.000000" y="444.750000" onclick="alert('x:0.13\ny:14')" onmousemove="window.status='x:0.13\ty:14'" />
+			<rect width="5.400000" height="7.875000" style="fill:blue;stroke:none;stroke-width:3" x="84.000000" y="442.125000" onclick="alert('x:0.14\ny:21')" onmousemove="window.status='x:0.14\ty:21'" />
+			<rect width="5.400000" height="9.000000" style="fill:blue;stroke:none;stroke-width:3" x="90.000000" y="441.000000" onclick="alert('x:0.15\ny:24')" onmousemove="window.status='x:0.15\ty:24'" />
+			<rect width="5.400000" height="11.625000" style="fill:blue;stroke:none;stroke-width:3" x="96.000000" y="438.375000" onclick="alert('x:0.16\ny:31')" onmousemove="window.status='x:0.16\ty:31'" />
+			<rect width="5.400000" height="12.000000" style="fill:blue;stroke:none;stroke-width:3" x="102.000000" y="438.000000" onclick="alert('x:0.17\ny:32')" onmousemove="window.status='x:0.17\ty:32'" />
+			<rect width="5.400000" height="16.875000" style="fill:blue;stroke:none;stroke-width:3" x="108.000000" y="433.125000" onclick="alert('x:0.18\ny:45')" onmousemove="window.status='x:0.18\ty:45'" />
+			<rect width="5.400000" height="11.250000" style="fill:blue;stroke:none;stroke-width:3" x="114.000000" y="438.750000" onclick="alert('x:0.19\ny:30')" onmousemove="window.status='x:0.19\ty:30'" />
+			<rect width="5.400000" height="11.250000" style="fill:blue;stroke:none;stroke-width:3" x="120.000000" y="438.750000" onclick="alert('x:0.2\ny:30')" onmousemove="window.status='x:0.2\ty:30'" />
+			<rect width="5.400000" height="13.125000" style="fill:blue;stroke:none;stroke-width:3" x="126.000000" y="436.875000" onclick="alert('x:0.21\ny:35')" onmousemove="window.status='x:0.21\ty:35'" />
+			<rect width="5.400000" height="25.125000" style="fill:blue;stroke:none;stroke-width:3" x="132.000000" y="424.875000" onclick="alert('x:0.22\ny:67')" onmousemove="window.status='x:0.22\ty:67'" />
+			<rect width="5.400000" height="13.500000" style="fill:blue;stroke:none;stroke-width:3" x="138.000000" y="436.500000" onclick="alert('x:0.23\ny:36')" onmousemove="window.status='x:0.23\ty:36'" />
+			<rect width="5.400000" height="16.125000" style="fill:blue;stroke:none;stroke-width:3" x="144.000000" y="433.875000" onclick="alert('x:0.24\ny:43')" onmousemove="window.status='x:0.24\ty:43'" />
+			<rect width="5.400000" height="14.625000" style="fill:blue;stroke:none;stroke-width:3" x="150.000000" y="435.375000" onclick="alert('x:0.25\ny:39')" onmousemove="window.status='x:0.25\ty:39'" />
+			<rect width="5.400000" height="20.250000" style="fill:blue;stroke:none;stroke-width:3" x="156.000000" y="429.750000" onclick="alert('x:0.26\ny:54')" onmousemove="window.status='x:0.26\ty:54'" />
+			<rect width="5.400000" height="16.875000" style="fill:blue;stroke:none;stroke-width:3" x="162.000000" y="433.125000" onclick="alert('x:0.27\ny:45')" onmousemove="window.status='x:0.27\ty:45'" />
+			<rect width="5.400000" height="16.500000" style="fill:blue;stroke:none;stroke-width:3" x="168.000000" y="433.500000" onclick="alert('x:0.28\ny:44')" onmousemove="window.status='x:0.28\ty:44'" />
+			<rect width="5.400000" height="21.750000" style="fill:blue;stroke:none;stroke-width:3" x="174.000000" y="428.250000" onclick="alert('x:0.29\ny:58')" onmousemove="window.status='x:0.29\ty:58'" />
+			<rect width="5.400000" height="21.750000" style="fill:blue;stroke:none;stroke-width:3" x="180.000000" y="428.250000" onclick="alert('x:0.3\ny:58')" onmousemove="window.status='x:0.3\ty:58'" />
+			<rect width="5.400000" height="21.750000" style="fill:blue;stroke:none;stroke-width:3" x="186.000000" y="428.250000" onclick="alert('x:0.31\ny:58')" onmousemove="window.status='x:0.31\ty:58'" />
+			<rect width="5.400000" height="22.500000" style="fill:blue;stroke:none;stroke-width:3" x="192.000000" y="427.500000" onclick="alert('x:0.32\ny:60')" onmousemove="window.status='x:0.32\ty:60'" />
+			<rect width="5.400000" height="25.125000" style="fill:blue;stroke:none;stroke-width:3" x="198.000000" y="424.875000" onclick="alert('x:0.33\ny:67')" onmousemove="window.status='x:0.33\ty:67'" />
+			<rect width="5.400000" height="24.375000" style="fill:blue;stroke:none;stroke-width:3" x="204.000000" y="425.625000" onclick="alert('x:0.34\ny:65')" onmousemove="window.status='x:0.34\ty:65'" />
+			<rect width="5.400000" height="22.125000" style="fill:blue;stroke:none;stroke-width:3" x="210.000000" y="427.875000" onclick="alert('x:0.35\ny:59')" onmousemove="window.status='x:0.35\ty:59'" />
+			<rect width="5.400000" height="25.125000" style="fill:blue;stroke:none;stroke-width:3" x="216.000000" y="424.875000" onclick="alert('x:0.36\ny:67')" onmousemove="window.status='x:0.36\ty:67'" />
+			<rect width="5.400000" height="21.375000" style="fill:blue;stroke:none;stroke-width:3" x="222.000000" y="428.625000" onclick="alert('x:0.37\ny:57')" onmousemove="window.status='x:0.37\ty:57'" />
+			<rect width="5.400000" height="27.000000" style="fill:blue;stroke:none;stroke-width:3" x="228.000000" y="423.000000" onclick="alert('x:0.38\ny:72')" onmousemove="window.status='x:0.38\ty:72'" />
+			<rect width="5.400000" height="28.875000" style="fill:blue;stroke:none;stroke-width:3" x="234.000000" y="421.125000" onclick="alert('x:0.39\ny:77')" onmousemove="window.status='x:0.39\ty:77'" />
+			<rect width="5.400000" height="31.500000" style="fill:blue;stroke:none;stroke-width:3" x="240.000000" y="418.500000" onclick="alert('x:0.4\ny:84')" onmousemove="window.status='x:0.4\ty:84'" />
+			<rect width="5.400000" height="34.500000" style="fill:blue;stroke:none;stroke-width:3" x="246.000000" y="415.500000" onclick="alert('x:0.41\ny:92')" onmousemove="window.status='x:0.41\ty:92'" />
+			<rect width="5.400000" height="29.625000" style="fill:blue;stroke:none;stroke-width:3" x="252.000000" y="420.375000" onclick="alert('x:0.42\ny:79')" onmousemove="window.status='x:0.42\ty:79'" />
+			<rect width="5.400000" height="33.750000" style="fill:blue;stroke:none;stroke-width:3" x="258.000000" y="416.250000" onclick="alert('x:0.43\ny:90')" onmousemove="window.status='x:0.43\ty:90'" />
+			<rect width="5.400000" height="33.750000" style="fill:blue;stroke:none;stroke-width:3" x="264.000000" y="416.250000" onclick="alert('x:0.44\ny:90')" onmousemove="window.status='x:0.44\ty:90'" />
+			<rect width="5.400000" height="36.375000" style="fill:blue;stroke:none;stroke-width:3" x="270.000000" y="413.625000" onclick="alert('x:0.45\ny:97')" onmousemove="window.status='x:0.45\ty:97'" />
+			<rect width="5.400000" height="38.625000" style="fill:blue;stroke:none;stroke-width:3" x="276.000000" y="411.375000" onclick="alert('x:0.46\ny:103')" onmousemove="window.status='x:0.46\ty:103'" />
+			<rect width="5.400000" height="41.625000" style="fill:blue;stroke:none;stroke-width:3" x="282.000000" y="408.375000" onclick="alert('x:0.47\ny:111')" onmousemove="window.status='x:0.47\ty:111'" />
+			<rect width="5.400000" height="53.250000" style="fill:blue;stroke:none;stroke-width:3" x="288.000000" y="396.750000" onclick="alert('x:0.48\ny:142')" onmousemove="window.status='x:0.48\ty:142'" />
+			<rect width="5.400000" height="59.250000" style="fill:blue;stroke:none;stroke-width:3" x="294.000000" y="390.750000" onclick="alert('x:0.49\ny:158')" onmousemove="window.status='x:0.49\ty:158'" />
+			<rect width="5.400000" height="71.250000" style="fill:blue;stroke:none;stroke-width:3" x="300.000000" y="378.750000" onclick="alert('x:0.5\ny:190')" onmousemove="window.status='x:0.5\ty:190'" />
+			<rect width="5.400000" height="84.750000" style="fill:blue;stroke:none;stroke-width:3" x="306.000000" y="365.250000" onclick="alert('x:0.51\ny:226')" onmousemove="window.status='x:0.51\ty:226'" />
+			<rect width="5.400000" height="91.500000" style="fill:blue;stroke:none;stroke-width:3" x="312.000000" y="358.500000" onclick="alert('x:0.52\ny:244')" onmousemove="window.status='x:0.52\ty:244'" />
+			<rect width="5.400000" height="105.375000" style="fill:blue;stroke:none;stroke-width:3" x="318.000000" y="344.625000" onclick="alert('x:0.53\ny:281')" onmousemove="window.status='x:0.53\ty:281'" />
+			<rect width="5.400000" height="123.375000" style="fill:blue;stroke:none;stroke-width:3" x="324.000000" y="326.625000" onclick="alert('x:0.54\ny:329')" onmousemove="window.status='x:0.54\ty:329'" />
+			<rect width="5.400000" height="129.375000" style="fill:blue;stroke:none;stroke-width:3" x="330.000000" y="320.625000" onclick="alert('x:0.55\ny:345')" onmousemove="window.status='x:0.55\ty:345'" />
+			<rect width="5.400000" height="180.375000" style="fill:blue;stroke:none;stroke-width:3" x="336.000000" y="269.625000" onclick="alert('x:0.56\ny:481')" onmousemove="window.status='x:0.56\ty:481'" />
+			<rect width="5.400000" height="196.500000" style="fill:blue;stroke:none;stroke-width:3" x="342.000000" y="253.500000" onclick="alert('x:0.57\ny:524')" onmousemove="window.status='x:0.57\ty:524'" />
+			<rect width="5.400000" height="250.125000" style="fill:blue;stroke:none;stroke-width:3" x="348.000000" y="199.875000" onclick="alert('x:0.58\ny:667')" onmousemove="window.status='x:0.58\ty:667'" />
+			<rect width="5.400000" height="283.500000" style="fill:blue;stroke:none;stroke-width:3" x="354.000000" y="166.500000" onclick="alert('x:0.59\ny:756')" onmousemove="window.status='x:0.59\ty:756'" />
+			<rect width="5.400000" height="309.000000" style="fill:blue;stroke:none;stroke-width:3" x="360.000000" y="141.000000" onclick="alert('x:0.6\ny:824')" onmousemove="window.status='x:0.6\ty:824'" />
+			<rect width="5.400000" height="358.875000" style="fill:blue;stroke:none;stroke-width:3" x="366.000000" y="91.125000" onclick="alert('x:0.61\ny:957')" onmousemove="window.status='x:0.61\ty:957'" />
+			<rect width="5.400000" height="366.000000" style="fill:blue;stroke:none;stroke-width:3" x="372.000000" y="84.000000" onclick="alert('x:0.62\ny:976')" onmousemove="window.status='x:0.62\ty:976'" />
+			<rect width="5.400000" height="387.750000" style="fill:blue;stroke:none;stroke-width:3" x="378.000000" y="62.250000" onclick="alert('x:0.63\ny:1034')" onmousemove="window.status='x:0.63\ty:1034'" />
+			<rect width="5.400000" height="399.750000" style="fill:blue;stroke:none;stroke-width:3" x="384.000000" y="50.250000" onclick="alert('x:0.64\ny:1066')" onmousemove="window.status='x:0.64\ty:1066'" />
+			<rect width="5.400000" height="402.000000" style="fill:blue;stroke:none;stroke-width:3" x="390.000000" y="48.000000" onclick="alert('x:0.65\ny:1072')" onmousemove="window.status='x:0.65\ty:1072'" />
+			<rect width="5.400000" height="411.750000" style="fill:blue;stroke:none;stroke-width:3" x="396.000000" y="38.250000" onclick="alert('x:0.66\ny:1098')" onmousemove="window.status='x:0.66\ty:1098'" />
+			<rect width="5.400000" height="396.375000" style="fill:blue;stroke:none;stroke-width:3" x="402.000000" y="53.625000" onclick="alert('x:0.67\ny:1057')" onmousemove="window.status='x:0.67\ty:1057'" />
+			<rect width="5.400000" height="392.625000" style="fill:blue;stroke:none;stroke-width:3" x="408.000000" y="57.375000" onclick="alert('x:0.68\ny:1047')" onmousemove="window.status='x:0.68\ty:1047'" />
+			<rect width="5.400000" height="356.625000" style="fill:blue;stroke:none;stroke-width:3" x="414.000000" y="93.375000" onclick="alert('x:0.69\ny:951')" onmousemove="window.status='x:0.69\ty:951'" />
+			<rect width="5.400000" height="349.875000" style="fill:blue;stroke:none;stroke-width:3" x="420.000000" y="100.125000" onclick="alert('x:0.7\ny:933')" onmousemove="window.status='x:0.7\ty:933'" />
+			<rect width="5.400000" height="312.375000" style="fill:blue;stroke:none;stroke-width:3" x="426.000000" y="137.625000" onclick="alert('x:0.71\ny:833')" onmousemove="window.status='x:0.71\ty:833'" />
+			<rect width="5.400000" height="289.500000" style="fill:blue;stroke:none;stroke-width:3" x="432.000000" y="160.500000" onclick="alert('x:0.72\ny:772')" onmousemove="window.status='x:0.72\ty:772'" />
+			<rect width="5.400000" height="247.500000" style="fill:blue;stroke:none;stroke-width:3" x="438.000000" y="202.500000" onclick="alert('x:0.73\ny:660')" onmousemove="window.status='x:0.73\ty:660'" />
+			<rect width="5.400000" height="215.625000" style="fill:blue;stroke:none;stroke-width:3" x="444.000000" y="234.375000" onclick="alert('x:0.74\ny:575')" onmousemove="window.status='x:0.74\ty:575'" />
+			<rect width="5.400000" height="191.250000" style="fill:blue;stroke:none;stroke-width:3" x="450.000000" y="258.750000" onclick="alert('x:0.75\ny:510')" onmousemove="window.status='x:0.75\ty:510'" />
+			<rect width="5.400000" height="168.000000" style="fill:blue;stroke:none;stroke-width:3" x="456.000000" y="282.000000" onclick="alert('x:0.76\ny:448')" onmousemove="window.status='x:0.76\ty:448'" />
+			<rect width="5.400000" height="135.000000" style="fill:blue;stroke:none;stroke-width:3" x="462.000000" y="315.000000" onclick="alert('x:0.77\ny:360')" onmousemove="window.status='x:0.77\ty:360'" />
+			<rect width="5.400000" height="122.250000" style="fill:blue;stroke:none;stroke-width:3" x="468.000000" y="327.750000" onclick="alert('x:0.78\ny:326')" onmousemove="window.status='x:0.78\ty:326'" />
+			<rect width="5.400000" height="82.125000" style="fill:blue;stroke:none;stroke-width:3" x="474.000000" y="367.875000" onclick="alert('x:0.79\ny:219')" onmousemove="window.status='x:0.79\ty:219'" />
+			<rect width="5.400000" height="71.250000" style="fill:blue;stroke:none;stroke-width:3" x="480.000000" y="378.750000" onclick="alert('x:0.8\ny:190')" onmousemove="window.status='x:0.8\ty:190'" />
+			<rect width="5.400000" height="51.750000" style="fill:blue;stroke:none;stroke-width:3" x="486.000000" y="398.250000" onclick="alert('x:0.81\ny:138')" onmousemove="window.status='x:0.81\ty:138'" />
+			<rect width="5.400000" height="44.250000" style="fill:blue;stroke:none;stroke-width:3" x="492.000000" y="405.750000" onclick="alert('x:0.82\ny:118')" onmousemove="window.status='x:0.82\ty:118'" />
+			<rect width="5.400000" height="44.250000" style="fill:blue;stroke:none;stroke-width:3" x="498.000000" y="405.750000" onclick="alert('x:0.83\ny:118')" onmousemove="window.status='x:0.83\ty:118'" />
+			<rect width="5.400000" height="35.250000" style="fill:blue;stroke:none;stroke-width:3" x="504.000000" y="414.750000" onclick="alert('x:0.84\ny:94')" onmousemove="window.status='x:0.84\ty:94'" />
+			<rect width="5.400000" height="30.000000" style="fill:blue;stroke:none;stroke-width:3" x="510.000000" y="420.000000" onclick="alert('x:0.85\ny:80')" onmousemove="window.status='x:0.85\ty:80'" />
+			<rect width="5.400000" height="26.625000" style="fill:blue;stroke:none;stroke-width:3" x="516.000000" y="423.375000" onclick="alert('x:0.86\ny:71')" onmousemove="window.status='x:0.86\ty:71'" />
+			<rect width="5.400000" height="22.500000" style="fill:blue;stroke:none;stroke-width:3" x="522.000000" y="427.500000" onclick="alert('x:0.87\ny:60')" onmousemove="window.status='x:0.87\ty:60'" />
+			<rect width="5.400000" height="19.125000" style="fill:blue;stroke:none;stroke-width:3" x="528.000000" y="430.875000" onclick="alert('x:0.88\ny:51')" onmousemove="window.status='x:0.88\ty:51'" />
+			<rect width="5.400000" height="15.000000" style="fill:blue;stroke:none;stroke-width:3" x="534.000000" y="435.000000" onclick="alert('x:0.89\ny:40')" onmousemove="window.status='x:0.89\ty:40'" />
+			<rect width="5.400000" height="16.875000" style="fill:blue;stroke:none;stroke-width:3" x="540.000000" y="433.125000" onclick="alert('x:0.9\ny:45')" onmousemove="window.status='x:0.9\ty:45'" />
+			<rect width="5.400000" height="10.875000" style="fill:blue;stroke:none;stroke-width:3" x="546.000000" y="439.125000" onclick="alert('x:0.91\ny:29')" onmousemove="window.status='x:0.91\ty:29'" />
+			<rect width="5.400000" height="9.375000" style="fill:blue;stroke:none;stroke-width:3" x="552.000000" y="440.625000" onclick="alert('x:0.92\ny:25')" onmousemove="window.status='x:0.92\ty:25'" />
+			<rect width="5.400000" height="10.125000" style="fill:blue;stroke:none;stroke-width:3" x="558.000000" y="439.875000" onclick="alert('x:0.93\ny:27')" onmousemove="window.status='x:0.93\ty:27'" />
+			<rect width="5.400000" height="9.375000" style="fill:blue;stroke:none;stroke-width:3" x="564.000000" y="440.625000" onclick="alert('x:0.94\ny:25')" onmousemove="window.status='x:0.94\ty:25'" />
+			<rect width="5.400000" height="6.375000" style="fill:blue;stroke:none;stroke-width:3" x="570.000000" y="443.625000" onclick="alert('x:0.95\ny:17')" onmousemove="window.status='x:0.95\ty:17'" />
+			<rect width="5.400000" height="8.250000" style="fill:blue;stroke:none;stroke-width:3" x="576.000000" y="441.750000" onclick="alert('x:0.96\ny:22')" onmousemove="window.status='x:0.96\ty:22'" />
+			<rect width="5.400000" height="5.625000" style="fill:blue;stroke:none;stroke-width:3" x="582.000000" y="444.375000" onclick="alert('x:0.97\ny:15')" onmousemove="window.status='x:0.97\ty:15'" />
+			<rect width="5.400000" height="4.500000" style="fill:blue;stroke:none;stroke-width:3" x="588.000000" y="445.500000" onclick="alert('x:0.98\ny:12')" onmousemove="window.status='x:0.98\ty:12'" />
+			<rect width="5.400000" height="6.000000" style="fill:blue;stroke:none;stroke-width:3" x="594.000000" y="444.000000" onclick="alert('x:0.99\ny:16')" onmousemove="window.status='x:0.99\ty:16'" />
+			<text x="-24.976" y="467" style="fill:#000000;font-family:ArialNarrow-Bold;font-size:46">0</text>
+			<line x1="0" y1="450.000000" x2="5" y2="450.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="450.000000" x2="595" y2="450.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-66.928" y="317" class="title">400</text>
+			<line x1="0" y1="300.000000" x2="5" y2="300.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="300.000000" x2="595" y2="300.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-66.928" y="167" style="font-size:46;font-family:Arial;fill:black" text-anchor="middle">800</text>
+			<line x1="0" y1="150.000000" x2="5" y2="150.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="150.000000" x2="595" y2="150.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-87.904" y="17" class="title">1200</text>
+			<line x1="0" y1="0.000000" x2="5" y2="0.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="0.000000" x2="595" y2="0.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-10.488" y="500" style="font-size:46;font-family:Arial;fill:black" text-anchor="middle" >0</text>
+			<line x1="0" y1="450" x2="0" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="0" y1="0" x2="0" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="93.78" y="500" style="fill:#000000;font-family:ArialNarrow-Bold;font-size:46">0.2</text>
+			<line x1="120" y1="450" x2="120" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="120" y1="0" x2="120" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="213.78" y="500" style="fill:#000000;font-family:ArialNarrow-Bold;font-size:46">0.4</text>
+			<line x1="240" y1="450" x2="240" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="240" y1="0" x2="240" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="333.78" y="500" style="fill:#000000;font-family:ArialNarrow-Bold;font-size:46">0.6</text>
+			<line x1="360" y1="450" x2="360" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="360" y1="0" x2="360" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="453.78" y="500" style="fill:#000000;font-family:ArialNarrow-Bold;font-size:46">0.8</text>
+			<line x1="480" y1="450" x2="480" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="480" y1="0" x2="480" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="589.512" y="500" class="title">1</text>
+			<line x1="600" y1="450" x2="600" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="0" x2="600" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<rect width="600" height="450" style="fill:none;stroke:black;stroke-width:3" x="0" y="0" />
+		</g>
+		<text x="-156.147" y="0" transform="translate(51.2,304.2) rotate(-90)" class="title">Number of Reads</text>
+		<text x="288.701" y="624.6" class="title">Reads Length[Kb]</text>
+		<text x="451.104" y="56" style="fill:#000000;font-family:ArialNarrow-Bold;font-size:46"></text>
+	</g>
+</svg>

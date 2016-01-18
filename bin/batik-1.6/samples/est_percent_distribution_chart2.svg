@@ -1,0 +1,84 @@
+<?xml-stylesheet type="text/css" href="./tests/resources/style/sunhb.css" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+
+<svg width="613.5384" height="511.68" viewBox="0 0 613.5384 511.68">
+
+	<g transform="scale(0.8)" xml:space="preserve">
+		<g transform="translate(119.64,79.2)">
+			<rect width="13.500000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="0.000000" y="450.000000" onclick="alert('x:0\ny:0')" onmousemove="window.status='x:0\ty:0'" />
+			<rect width="13.500000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="15.000000" y="450.000000" onclick="alert('x:20\ny:0')" onmousemove="window.status='x:20\ty:0'" />
+			<rect width="13.500000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="30.000000" y="450.000000" onclick="alert('x:40\ny:0')" onmousemove="window.status='x:40\ty:0'" />
+			<rect width="13.500000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="45.000000" y="450.000000" onclick="alert('x:60\ny:0')" onmousemove="window.status='x:60\ty:0'" />
+			<rect width="13.500000" height="3.342411" style="fill:blue;stroke:none;stroke-width:3" x="60.000000" y="446.657589" onclick="alert('x:80\ny:0.07427581')" onmousemove="window.status='x:80\ty:0.07427581'" />
+			<rect width="13.500000" height="59.272097" style="fill:blue;stroke:none;stroke-width:3" x="75.000000" y="390.727903" onclick="alert('x:100\ny:1.31715771')" onmousemove="window.status='x:100\ty:1.31715771'" />
+			<rect width="13.500000" height="55.929685" style="fill:blue;stroke:none;stroke-width:3" x="90.000000" y="394.070314" onclick="alert('x:120\ny:1.2428819')" onmousemove="window.status='x:120\ty:1.2428819'" />
+			<rect width="13.500000" height="49.467690" style="fill:blue;stroke:none;stroke-width:3" x="105.000000" y="400.532310" onclick="alert('x:140\ny:1.099282')" onmousemove="window.status='x:140\ty:1.099282'" />
+			<rect width="13.500000" height="49.913345" style="fill:blue;stroke:none;stroke-width:3" x="120.000000" y="400.086655" onclick="alert('x:160\ny:1.10918544')" onmousemove="window.status='x:160\ty:1.10918544'" />
+			<rect width="13.500000" height="49.022035" style="fill:blue;stroke:none;stroke-width:3" x="135.000000" y="400.977965" onclick="alert('x:180\ny:1.08937856')" onmousemove="window.status='x:180\ty:1.08937856'" />
+			<rect width="13.500000" height="50.359000" style="fill:blue;stroke:none;stroke-width:3" x="150.000000" y="399.641000" onclick="alert('x:200\ny:1.11908888')" onmousemove="window.status='x:200\ty:1.11908888'" />
+			<rect width="13.500000" height="53.924238" style="fill:blue;stroke:none;stroke-width:3" x="165.000000" y="396.075762" onclick="alert('x:220\ny:1.19831641')" onmousemove="window.status='x:220\ty:1.19831641'" />
+			<rect width="13.500000" height="59.049270" style="fill:blue;stroke:none;stroke-width:3" x="180.000000" y="390.950730" onclick="alert('x:240\ny:1.31220599')" onmousemove="window.status='x:240\ty:1.31220599'" />
+			<rect width="13.500000" height="58.826442" style="fill:blue;stroke:none;stroke-width:3" x="195.000000" y="391.173558" onclick="alert('x:260\ny:1.30725427')" onmousemove="window.status='x:260\ty:1.30725427'" />
+			<rect width="13.500000" height="63.505818" style="fill:blue;stroke:none;stroke-width:3" x="210.000000" y="386.494182" onclick="alert('x:280\ny:1.41124041')" onmousemove="window.status='x:280\ty:1.41124041'" />
+			<rect width="13.500000" height="85.120079" style="fill:blue;stroke:none;stroke-width:3" x="225.000000" y="364.879921" onclick="alert('x:300\ny:1.89155732')" onmousemove="window.status='x:300\ty:1.89155732'" />
+			<rect width="13.500000" height="95.370141" style="fill:blue;stroke:none;stroke-width:3" x="240.000000" y="354.629859" onclick="alert('x:320\ny:2.11933647')" onmousemove="window.status='x:320\ty:2.11933647'" />
+			<rect width="13.500000" height="102.946274" style="fill:blue;stroke:none;stroke-width:3" x="255.000000" y="347.053726" onclick="alert('x:340\ny:2.28769497')" onmousemove="window.status='x:340\ty:2.28769497'" />
+			<rect width="13.500000" height="120.549641" style="fill:blue;stroke:none;stroke-width:3" x="270.000000" y="329.450359" onclick="alert('x:360\ny:2.67888091')" onmousemove="window.status='x:360\ty:2.67888091'" />
+			<rect width="13.500000" height="147.511760" style="fill:blue;stroke:none;stroke-width:3" x="285.000000" y="302.488240" onclick="alert('x:380\ny:3.27803912')" onmousemove="window.status='x:380\ty:3.27803912'" />
+			<rect width="13.500000" height="178.484773" style="fill:blue;stroke:none;stroke-width:3" x="300.000000" y="271.515227" onclick="alert('x:400\ny:3.9663283')" onmousemove="window.status='x:400\ty:3.9663283'" />
+			<rect width="13.500000" height="206.338203" style="fill:blue;stroke:none;stroke-width:3" x="315.000000" y="243.661797" onclick="alert('x:420\ny:4.58529339')" onmousemove="window.status='x:420\ty:4.58529339'" />
+			<rect width="13.500000" height="241.767764" style="fill:blue;stroke:none;stroke-width:3" x="330.000000" y="208.232236" onclick="alert('x:440\ny:5.37261698')" onmousemove="window.status='x:440\ty:5.37261698'" />
+			<rect width="13.500000" height="243.104729" style="fill:blue;stroke:none;stroke-width:3" x="345.000000" y="206.895271" onclick="alert('x:460\ny:5.40232731')" onmousemove="window.status='x:460\ty:5.40232731'" />
+			<rect width="13.500000" height="283.213667" style="fill:blue;stroke:none;stroke-width:3" x="360.000000" y="166.786333" onclick="alert('x:480\ny:6.29363704')" onmousemove="window.status='x:480\ty:6.29363704'" />
+			<rect width="13.500000" height="283.436494" style="fill:blue;stroke:none;stroke-width:3" x="375.000000" y="166.563506" onclick="alert('x:500\ny:6.29858876')" onmousemove="window.status='x:500\ty:6.29858876'" />
+			<rect width="13.500000" height="322.876950" style="fill:blue;stroke:none;stroke-width:3" x="390.000000" y="127.123050" onclick="alert('x:520\ny:7.17504333')" onmousemove="window.status='x:520\ty:7.17504333'" />
+			<rect width="13.500000" height="313.518198" style="fill:blue;stroke:none;stroke-width:3" x="405.000000" y="136.481802" onclick="alert('x:540\ny:6.96707106')" onmousemove="window.status='x:540\ty:6.96707106'" />
+			<rect width="13.500000" height="299.925724" style="fill:blue;stroke:none;stroke-width:3" x="420.000000" y="150.074276" onclick="alert('x:560\ny:6.66501609')" onmousemove="window.status='x:560\ty:6.66501609'" />
+			<rect width="13.500000" height="266.724437" style="fill:blue;stroke:none;stroke-width:3" x="435.000000" y="183.275563" onclick="alert('x:580\ny:5.92720971')" onmousemove="window.status='x:580\ty:5.92720971'" />
+			<rect width="13.500000" height="231.294875" style="fill:blue;stroke:none;stroke-width:3" x="450.000000" y="218.705125" onclick="alert('x:600\ny:5.13988611')" onmousemove="window.status='x:600\ty:5.13988611'" />
+			<rect width="13.500000" height="190.071800" style="fill:blue;stroke:none;stroke-width:3" x="465.000000" y="259.928200" onclick="alert('x:620\ny:4.22381778')" onmousemove="window.status='x:620\ty:4.22381778'" />
+			<rect width="13.500000" height="149.740035" style="fill:blue;stroke:none;stroke-width:3" x="480.000000" y="300.259965" onclick="alert('x:640\ny:3.32755633')" onmousemove="window.status='x:640\ty:3.32755633'" />
+			<rect width="13.500000" height="100.049517" style="fill:blue;stroke:none;stroke-width:3" x="495.000000" y="349.950483" onclick="alert('x:660\ny:2.2233226')" onmousemove="window.status='x:660\ty:2.2233226'" />
+			<rect width="13.500000" height="55.261203" style="fill:blue;stroke:none;stroke-width:3" x="510.000000" y="394.738797" onclick="alert('x:680\ny:1.22802674')" onmousemove="window.status='x:680\ty:1.22802674'" />
+			<rect width="13.500000" height="21.837088" style="fill:blue;stroke:none;stroke-width:3" x="525.000000" y="428.162912" onclick="alert('x:700\ny:0.48526863')" onmousemove="window.status='x:700\ty:0.48526863'" />
+			<rect width="13.500000" height="6.684823" style="fill:blue;stroke:none;stroke-width:3" x="540.000000" y="443.315177" onclick="alert('x:720\ny:0.14855162')" onmousemove="window.status='x:720\ty:0.14855162'" />
+			<rect width="13.500000" height="1.559792" style="fill:blue;stroke:none;stroke-width:3" x="555.000000" y="448.440208" onclick="alert('x:740\ny:0.03466205')" onmousemove="window.status='x:740\ty:0.03466205'" />
+			<rect width="13.500000" height="0.000000" style="fill:blue;stroke:none;stroke-width:3" x="570.000000" y="450.000000" onclick="alert('x:760\ny:0')" onmousemove="window.status='x:760\ty:0'" />
+			<text x="-24.976" y="467" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">0</text>
+			<line x1="0" y1="450.000000" x2="5" y2="450.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="450.000000" x2="595" y2="450.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-56.44" y="354.5" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">2.5</text>
+			<line x1="0" y1="337.500000" x2="5" y2="337.500000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="337.500000" x2="595" y2="337.500000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-24.976" y="242" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">5</text>
+			<line x1="0" y1="225.000000" x2="5" y2="225.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="225.000000" x2="595" y2="225.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-56.44" y="129.5" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">7.5</text>
+			<line x1="0" y1="112.500000" x2="5" y2="112.500000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="112.500000" x2="595" y2="112.500000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-45.952" y="17" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">10</text>
+			<line x1="0" y1="0.000000" x2="5" y2="0.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="0.000000" x2="595" y2="0.000000" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="-10.488" y="500" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">0</text>
+			<line x1="0" y1="450" x2="0" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="0" y1="0" x2="0" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="118.536" y="500" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">200</text>
+			<line x1="150" y1="450" x2="150" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="150" y1="0" x2="150" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="268.536" y="500" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">400</text>
+			<line x1="300" y1="450" x2="300" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="300" y1="0" x2="300" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="418.536" y="500" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">600</text>
+			<line x1="450" y1="450" x2="450" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="450" y1="0" x2="450" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<text x="568.536" y="500" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:46">800</text>
+			<line x1="600" y1="450" x2="600" y2="445" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<line x1="600" y1="0" x2="600" y2="5" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" />
+			<rect width="600" height="450" style="fill:none;stroke:black;stroke-width:3" x="0" y="0" />
+		</g>
+		<text x="-101.683" y="0" transform="translate(51.2,304.2) rotate(-90)" style="fill:#000000;font-family:ArialNarrow;font-weight:bold;font-size:20">Percentage</text>
+		<text x="314.852" y="624.6" style="fill:#000000;font-family:ArialNarrow;font-size:46;font-weight:bold">EST Length</text>
+		<text x="419.64" y="56" style="fill:#000000;font-family:Arial;font-size:46"></text>
+	</g>
+</svg>
