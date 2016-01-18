@@ -22,7 +22,7 @@ while (<IN>) {
         open SH,">$ARGV[1]/$sh";
         print SH "#!/bin/bash\n#\$ -S /bin/bash\n\n";
 	print SH "cd $ARGV[1]\n";
-        print SH "perl $binpath/../High_PPI/Sureplex/Sureplex_pipeline_600k_Y_HR.pl $temp[0] $binpath/../Database/hg19.fasta $temp\n";
+        print SH "perl $binpath/../High_PPI/Sureplex/Sureplex_pipeline_600k_Y_HR.pl $temp[0] $binpath/../DataBase/hg19.fasta $temp\n";
 	print SH "java -jar $binpath/batik-1.6/batik-rasterizer.jar $ARGV[1]/$temp/$temp\.*.svg\n";
 	print SH "perl $binpath/log2xls.pl $ARGV[1]/$temp/$temp.log $ARGV[1]/$temp/$temp.Statistics $ARGV[1]/$temp/$temp.xls $file_name\n";
 	print SH "rm $ARGV[1]/$temp/*.bam\n";

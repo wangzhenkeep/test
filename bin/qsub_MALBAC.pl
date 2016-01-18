@@ -28,6 +28,6 @@ while (<IN>) {
 	print SH "rm $ARGV[1]/$temp/*.bam\n";
 	print SH "perl $binpath/print_time.pl $ARGV[1]/$temp\n";
         close SH;
-        system "qsub -e $ARGV[1]/ -o $ARGV[1] $ARGV[1]/$sh";
+        #system "qsub -e $ARGV[1]/ -o $ARGV[1] $ARGV[1]/$sh";
+	system "sh $ARGV[1]/$sh";
 }
-

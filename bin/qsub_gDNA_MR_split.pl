@@ -22,12 +22,13 @@ while (<IN>) {
         open SH,">$ARGV[1]/$sh";
         print SH "#!/bin/bash\n#\$ -S /bin/bash\n\n";
 	print SH "cd $ARGV[1]\n";
-        print SH "perl $binpath/../High_PPI/Sureplex/Sureplex_pipeline_600k_Y.pl $temp[0] $binpath/../DataBase/hg19.fasta $temp\n";
+        print SH "perl $binpath/../High_PPI/gDNA/gDNA_pipeline_600k_qsub.pl $temp[0] $binpath/../Database/hg19.fasta $temp\n";
 	print SH "java -jar $binpath/batik-1.6/batik-rasterizer.jar $ARGV[1]/$temp/$temp\.*.svg\n";
-	print SH "perl $binpath/log2xls.pl $ARGV[1]/$temp/$temp.log $ARGV[1]/$temp/$temp.Statistics $ARGV[1]/$temp/$temp.xls $file_name 0 \n";
+	print SH "perl $binpath/log2xls.pl $ARGV[1]/$temp/$temp.log $ARGV[1]/$temp/$temp.Statistics $ARGV[1]/$temp/$temp.xls $file_name 3.5\n";
 	print SH "rm $ARGV[1]/$temp/*.bam\n";
 	print SH "perl $binpath/print_time.pl $ARGV[1]/$temp\n";
         close SH;
-        system "qsub -e $ARGV[1]/ -o $ARGV[1] $ARGV[1]/$sh";
+        #system "qsub -e $ARGV[1]/ -o $ARGV[1] $ARGV[1]/$sh";
+	system "sh $ARGV[1]/$sh";
 }
 
